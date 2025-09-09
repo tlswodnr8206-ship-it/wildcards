@@ -1,0 +1,5 @@
+facing viewer, looking at viewer
+facing viewer, looking to the side
+facing to the side, looking at viewer
+facing to the side, looking away
+facing away, looking away
