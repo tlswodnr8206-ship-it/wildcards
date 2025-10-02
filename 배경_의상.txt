@@ -1,0 +1,40 @@
+white background, simple background
+bedroom
+kitchen, clothed female, partially undressed
+kitchen, apron, apron only, mostly nude female
+kitchen, bathroom, nude, completely nude
+bathroom, bathtub, nude, completely nude
+bathroom, air mattress, oiled, mat play, nude, completely nude
+beach, swimsuit, micro bikini
+beach, swimsuit, bikini
+beach, swimsuit, one-piece swimsuit
+beach, nude
+onsen, completely nude
+onsen, naked towel
+onsen, yukata, bath yukata
+park, night, park bench, on bench
+alley, night, outdoor, animal collar, nude female
+casino, bunny costume, playboy bunny, rabbit ears, fake animal ears
+casino, reverse bunnysuit, rabbit ears, fake animal ears
+bar (place), bunny costume, playboy bunny, rabbit ears, fake animal ears
+bar (place), reverse bunnysuit, rabbit ears, fake animal ears
+cafe, clothed female, partially undressed
+cafe, waitress, apron
+cafe, maid, maid headdress, maid apron
+pool, swimsuit, one-piece swimsuit
+pool, swimsuit, bikini
+east asian architecture, tatami, futon, japanese clothes, yukata
+east asian architecture, tatami, futon, nude
+east asian architecture, tatami, futon, clothed female, partially undressed
+east asian architecture, china dress
+summer festival, night, lantern, under tree, yukata
+summer festival, night, lantern, under tree, clothed female, partially undressed
+waiting room, wedding dress
+infirmary, hospital bed, nurse, nurse cap
+infirmary, hospital bed
+gym storeroom, clothed female, partially undressed
+gym storeroom, buruma, gym shorts
+gym storeroom, cheerleader
+outdoors, day, rooftop, cheerleader
+outdoors, day, rooftop, buruma, gym shorts
+outdoors, day, rooftop, clothed female, partially undressed
