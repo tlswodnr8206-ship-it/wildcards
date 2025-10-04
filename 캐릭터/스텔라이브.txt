@@ -1,10 +1,10 @@
-akane lize ,stellive
-tenko shibuki, stellive
-yuzuha riko, stellive
-shirayuki hina, stellive
-neneko mashiro, stellive
-airi kanna, stellive
-ayatsuno yuni, stellive
-arahashi tabi, stellive
-aokumo rin, stellive
-hanako nana, stellive
+akane lize \(stellive)\ ,stellive
+tenko shibuki \(stellive)\ ,stellive
+yuzuha riko \(stellive)\ ,stellive
+shirayuki hina \(stellive)\ ,stellive
+neneko mashiro \(stellive)\ ,stellive
+airi kanna \(stellive)\ ,stellive
+ayatsuno yuni \(stellive)\ ,stellive
+arahashi tabi \(stellive)\ ,stellive
+aokumo rin \(stellive)\ ,stellive
+hanako nana \(stellive)\ ,stellive
