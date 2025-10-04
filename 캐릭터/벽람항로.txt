@@ -1,47 +1,82 @@
- aegir (Azur Lane), long hair, white hair, single braid, black dress, black pantyhose
- illustrious (Azur Lane), long hair, blonde hair, blue eyes, white dress, maid headdress, cleavage
- bismarck (Azur Lane), short hair, white hair, yellow eyes, military uniform, hat, coat
- enterprise (Azur Lane), long hair, white hair, yellow eyes, blue coat, hat, sword
- prinz eugen (Azur Lane), long hair, black hair, red eyes, military uniform, black pantyhose
- atago (Azur Lane), long hair, black hair, animal ears, fox tail, japanese clothes, thighhighs
- shinano (Azur Lane), long hair, white hair, fox ears, fox tail, kimono, large breast
- suzutsuki (Azur Lane), long hair, white hair, fox ears, miko, cleavage, miniskirt
- honolulu (Azur Lane), long hair, brown hair, purple eyes, blue sailor suit, thighhighs
- new jersey (Azur Lane), long hair, blonde hair, rabbit ears, white bodysuit, military hat
- hoshou (Azur Lane), short hair, black hair, kimono, miko, traditional clothes
- taihou (Azur Lane), long hair, pink hair, red eyes, kimono, large breast, fan
- akagi (Azur Lane), long hair, white hair, fox ears, fox tail, kimono, red eyes
- kaga (Azur Lane), long hair, white hair, fox ears, fox tail, kimono, blue eyes
- formidable (Azur Lane), long hair, white hair, blue eyes, white dress, thighhighs
- roon (Azur Lane), short hair, red hair, red eyes, military uniform, black pantyhose
- shimakaze (Azur Lane), long hair, white hair, bunny ears, sailor suit, miniskirt
- unicorn (Azur Lane), long hair, pink hair, white dress, ribbon, teddy bear
- nelson (Azur Lane), short hair, blonde hair, blue military uniform
- hood (Azur Lane), long hair, blonde hair, white dress, military hat
- z23 (Azur Lane), short hair, pink hair, red eyes, military uniform, headset
- laffey (Azur Lane), white hair, short hair, bunny ears, blue sailor suit, sleepy
- ayanami (Azur Lane), short hair, blue hair, blue eyes, demon horns, black sailor suit
- javelin (Azur Lane), short hair, blonde hair, green eyes, white dress, ribbon
- zentica (Azur Lane), long hair, white hair, red eyes, military uniform, long coat
- saint louis (Azur Lane), long hair, blonde hair, yellow eyes, white suit, pantyhose
- eugene (Azur Lane), long hair, black hair, red eyes, black uniform, military hat
- doon (Azur Lane), long hair, black hair, red eyes, white and red dress
- baltimore (Azur Lane), short hair, grey hair, blue eyes, baseball cap, jacket
- north carolina (Azur Lane), long hair, blonde hair, blue dress, tiara, large breast
- south dakota (Azur Lane), short hair, black hair, military uniform, red jacket
- cleveland (Azur Lane), short hair, brown hair, military cap, jacket, short hair
- helena (Azur Lane), short hair, blue hair, blue eyes, white dress, ribbon
- vestal (Azur Lane), long hair, blonde hair, nurse uniform, medical cross
- tirpitz (Azur Lane), long hair, white hair, blue military uniform, hat, black pantyhose
- spee (Azur Lane), long hair, black hair, red eyes, military uniform, black stockings
- graf zeppelin (Azur Lane), long hair, white hair, black dress, black veil, serious
- akashi (Azur Lane), cat ears, green hair, green eyes, miko, kimono, gold accessories
- shoukaku (Azur Lane), long hair, white hair, fox ears, white kimono, red eyes
- zuikaku (Azur Lane), long hair, white hair, fox ears, blue kimono, blue eyes
- ryuuhou (Azur Lane), long hair, pink hair, kimono, miko, fox ears
- newcastle (Azur Lane), long hair, blonde hair, maid uniform, white gloves
- glasgow (Azur Lane), long hair, silver hair, maid uniform, black dress
- sirius (Azur Lane), long hair, blue hair, maid uniform, large chest, cleavage
- isuzu (Azur Lane), long hair, purple hair, fox ears, miko, kimono
- azuma (Azur Lane), long hair, white hair, fox ears, kimono, large breast
- kashino (Azur Lane), short hair, brown hair, cow ea
+taihou \(azur lane)\
+bremerton \(azur lane)\
+sirius \(azur lane)\
+atago \(azur lane)\
+unicorn \(azur lane)\
+formidable \(azur lane)\
+prinz eugen \(azur lane)\
+belfast \(azur lane)\
+commander \(azur lane)\
+illustrious \(azur lane)\
+enterprise \(azur lane)\
+ayanami \(azur lane)\
+laffey \(azur lane)\
+kaga \(azur lane)\
+takao \(azur lane)\
+akagi \(azur lane)\
+le malin \(azur lane)\
+st. louis \(azur lane)\
+javelin \(azur lane)\
+kashino \(azur lane)\
+honolulu \(azur lane)\
+shinano \(azur lane)\
+baltimore \(azur lane)\
+z23 \(azur lane)\
+amagi \(azur lane)\
+dido \(azur lane)\
+cheshire \(azur lane)\
+nagato \(azur lane)\
+new jersey \(azur lane)\
+zara \(azur lane)\
+yamashiro \(azur lane)\
+musashi \(azur lane)\
+cleveland \(azur lane)\
+yuudachi \(azur lane)\
+akashi \(azur lane)\
+bismarck \(azur lane)\
+roon \(azur lane)\
+graf zeppelin \(azur lane)\
+hindenburg \(azur lane)\
+friedrich der grosse \(azur lane)\
+queen elizabeth \(azur lane)\
+hammann \(azur lane)\
+kisaragi \(azur lane)\
+eldridge \(azur lane)\
+implacable \(azur lane)\
+jean bart \(azur lane)\
+shoukaku \(azur lane)\
+aegir \(azur lane)\
+noshiro \(azur lane)\
+bache \(azur lane)\
+perseus \(azur lane)\
+zuikaku \(azur lane)\
+sheffield \(azur lane)\
+z46 \(azur lane)\
+admiral graf spee \(azur lane)\
+tashkent \(azur lane)\
+amagi-chan \(azur lane)\
+owari \(azur lane)\
+ping hai \(azur lane)\
+ulrich von hutten \(azur lane)\
+august von parseval \(azur lane)\
+shimakaze \(azur lane)\
+massachusetts \(azur lane)\
+admiral hipper \(azur lane)\
+portland \(azur lane)\
+indomitable \(azur lane)\
+richelieu \(azur lane)\
+hood \(azur lane)\
+vampire \(azur lane)\
+warspite \(azur lane)\
+kearsarge \(azur lane)\
+grim \(azur lane)\
+pamiat merkuria \(azur lane)\
+mutsuki \(azur lane)\
+indianapolis \(azur lane)\
+deutschland \(azur lane)\
+meowfficer \(azur lane)\
+alsace \(azur lane)\
+anchorage \(azur lane)\
+ark royal \(azur lane)\
+monarch \(azur lane)\
+pola \(azur lane)\
